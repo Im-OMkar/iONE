@@ -1,0 +1,45 @@
+.asd{
+    padding-bottom: 3%;  
+}
+.zxc{
+    padding-bottom: 3%;  
+}
+
+.log{
+    text-decoration-color: aliceblue;
+    text-size-adjust: 50px;
+    opacity: 0.93;
+    
+}
+.butt1{
+    border-radius: 5px;
+}
+
+.butt2{
+    border-radius: 5px;
+}
+
+.button4 {
+    border-radius: 5px;
+    cursor: pointer;
+    background-color: #9999ff; 
+    border: none;
+    color: white;
+    padding: 12px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 18px;
+    font-weight: 620;
+}
+
+#span{
+    color: white;
+    padding-bottom: 2%;
+}
+
+/* .wbg{
+    width: 88px;
+    height:38px ;
+    padding: 20%;
+} */
